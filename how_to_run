@@ -1,0 +1,3 @@
+And if u are transfering the files between two devices then both the devices should be connected to a ame wifi
+To run code:
+streamlit run main.py
